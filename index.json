@@ -1,0 +1,30 @@
+{
+    "index": [
+        {
+            "name": "Flask",
+            "files":[
+                {
+                    "name": "project.json",
+                    "url": "https://raw.githubusercontent.com/sakurapkg/templates/main/Flask/project.json"
+                },
+                {
+                    "name": "app.py",
+                    "url": "https://raw.githubusercontent.com/sakurapkg/templates/main/Flask/app.py"
+                }
+            ]
+        },
+        {
+            "name": "FastAPI",
+            "files": [
+                {
+                    "name": "project.json",
+                    "url": ""
+                },
+                {
+                    "name": "app.py",
+                    "url": ""
+                }
+            ]
+        }
+    ]
+}
