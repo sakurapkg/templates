@@ -18,11 +18,11 @@
             "files": [
                 {
                     "name": "project.json",
-                    "url": ""
+                    "url": "https://raw.githubusercontent.com/sakurapkg/templates/main/FastAPI/project.json"
                 },
                 {
                     "name": "app.py",
-                    "url": ""
+                    "url": "https://raw.githubusercontent.com/sakurapkg/templates/main/FastAPI/app.py"
                 }
             ]
         }
